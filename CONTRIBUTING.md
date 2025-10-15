@@ -55,3 +55,7 @@ Chúng tôi hoan nghênh mọi đóng góp, bao gồm nhưng không giới hạn
 ---
 
 ## ❤️ Cảm ơn bạn!Cảm ơn bạn đã quan tâm đến dự án! Mỗi dòng code, mỗi góp ý của bạn đều giúp dự án phát triển mạnh mẽ hơn. Hãy cùng nhau xây dựng một trò chơi Tetris tuyệt vời và thông minh hơn!
+# Cẩm Tú:
+Em chào anh ạ. 
+Em đã tìm ra 1 bug trong file tetris.py và đã fix lại lỗi khi truy cập ngoài giới hạn mảng.
+Chúc anh một ngày thật vui vẻ :3...
