@@ -30,14 +30,14 @@ Chúng tôi hoan nghênh mọi đóng góp, bao gồm nhưng không giới hạn
    git clone https://github.com/ten-ban/tetris-ai.git
    cd tetris-ai
 3. Tạo nhánh mới cho tính năng hoặc sửa lỗi:
-```bash
-git checkout -b feature/ten-tinh-nang
+   ```bash
+   git checkout -b feature/ten-tinh-nang
 4. Viết code, kiểm tra kỹ, và commit rõ ràng:
-```bash
-git commit -m "Thêm tính năng xoay khối bằng phím R"
+   ```bash
+   git commit -m "Thêm tính năng xoay khối bằng phím R"
 5. Push lên GitHub và tạo Pull Request:
-```bash
-git push origin feature/ten-tinh-nang
+   ```bash
+   git push origin feature/ten-tinh-nang
 
 ---
 
